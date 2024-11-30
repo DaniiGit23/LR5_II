@@ -2,10 +2,6 @@
 # -*- coding: utf-8 -*-
 # Поиск элемента в дереве с использованием алгоритма итеративного углубления
 
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# Поиск элемента в дереве с использованием алгоритма итеративного углубления
-
 class BinaryTreeNode:
     def __init__(self, value, left=None, right=None):
         self.value = value
